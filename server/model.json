@@ -1,0 +1,128 @@
+[
+	{
+	  "Title": "The Lion King",
+	  "Year": "2019",
+	  "Runtime": "118 min",
+	  "Poster": "https://m.media-amazon.com/images/M/MV5BMjIwMjE1Nzc4NV5BMl5BanBnXkFtZTgwNDg4OTA1NzM@._V1_SX300.jpg",
+	  "Rating" : 3.5
+	},
+	{
+	  "Title": "Mowgli: Legend of the Jungle",
+	  "Year": "2018",
+	  "Runtime": "104 min",
+	  "Poster": "https://m.media-amazon.com/images/M/MV5BMjMzODc2NzU5MV5BMl5BanBnXkFtZTgwNTMwMTE3NjM@._V1_SX300.jpg",
+	  "Rating" : 4
+	},
+	{
+	  "Title": "Doctor Strange",
+	  "Year": "2016",
+	  "Runtime": "115 min",
+	  "Poster": "https://m.media-amazon.com/images/M/MV5BNjgwNzAzNjk1Nl5BMl5BanBnXkFtZTgwMzQ2NjI1OTE@._V1_SX300.jpg",
+	  "Rating" : 3.2
+	},
+	{
+	  "Title": "John Wick",
+	  "Year": "2014",
+	  "Runtime": "101 min",
+	  "Poster": "https://m.media-amazon.com/images/M/MV5BMTU2NjA1ODgzMF5BMl5BanBnXkFtZTgwMTM2MTI4MjE@._V1_SX300.jpg",
+	  "Rating" : 4.5
+	},
+	{
+		"Title": "The Lion King",
+		"Year": "2019",
+		"Runtime": "118 min",
+		"Poster": "https://m.media-amazon.com/images/M/MV5BMjIwMjE1Nzc4NV5BMl5BanBnXkFtZTgwNDg4OTA1NzM@._V1_SX300.jpg",
+		"Rating" : 4.2
+	   },
+	   {
+		"Title": "Mowgli: Legend of the Jungle",
+		"Year": "2018",
+		"Runtime": "104 min",
+		"Poster": "https://m.media-amazon.com/images/M/MV5BMjMzODc2NzU5MV5BMl5BanBnXkFtZTgwNTMwMTE3NjM@._V1_SX300.jpg",
+		"Rating" : 3.8
+	   },
+	   {
+		"Title": "Doctor Strange",
+		"Year": "2016",
+		"Runtime": "115 min",
+		"Poster": "https://m.media-amazon.com/images/M/MV5BNjgwNzAzNjk1Nl5BMl5BanBnXkFtZTgwMzQ2NjI1OTE@._V1_SX300.jpg",
+		"Rating" : 3.6
+	   },
+	   {
+		"Title": "John Wick",
+		"Year": "2014",
+		"Runtime": "101 min",
+		"Poster": "https://m.media-amazon.com/images/M/MV5BMTU2NjA1ODgzMF5BMl5BanBnXkFtZTgwMTM2MTI4MjE@._V1_SX300.jpg",
+		"Rating" : 2.8
+	   },
+	   {
+		"Title" : "KGF Chapter 1",
+		"Year" : 2018,
+		"Runtime" : "126 min",
+		"Poster" : "https://e0.pxfuel.com/wallpapers/942/663/desktop-wallpaper-yash-kgf-chapter-1-thumbnail.jpg",
+		"Rating" : 5
+	   },
+	   {
+		"Title": "The Lion King",
+		"Year": "2019",
+		"Runtime": "118 min",
+		"Poster": "https://m.media-amazon.com/images/M/MV5BMjIwMjE1Nzc4NV5BMl5BanBnXkFtZTgwNDg4OTA1NzM@._V1_SX300.jpg",
+		"Rating" : 3.5
+	   },
+	   {
+		"Title": "Mowgli: Legend of the Jungle",
+		"Year": "2018",
+		"Runtime": "104 min",
+		"Poster": "https://m.media-amazon.com/images/M/MV5BMjMzODc2NzU5MV5BMl5BanBnXkFtZTgwNTMwMTE3NjM@._V1_SX300.jpg",
+		"Rating" : 4
+	   },
+	   {
+		"Title": "Doctor Strange",
+		"Year": "2016",
+		"Runtime": "115 min",
+		"Poster": "https://m.media-amazon.com/images/M/MV5BNjgwNzAzNjk1Nl5BMl5BanBnXkFtZTgwMzQ2NjI1OTE@._V1_SX300.jpg",
+		"Rating" : 3.2
+	   },
+	   {
+		"Title": "John Wick",
+		"Year": "2014",
+		"Runtime": "101 min",
+		"Poster": "https://m.media-amazon.com/images/M/MV5BMTU2NjA1ODgzMF5BMl5BanBnXkFtZTgwMTM2MTI4MjE@._V1_SX300.jpg",
+		"Rating" : 4.5
+	   },
+	   {
+		   "Title": "The Lion King",
+		   "Year": "2019",
+		   "Runtime": "118 min",
+		   "Poster": "https://m.media-amazon.com/images/M/MV5BMjIwMjE1Nzc4NV5BMl5BanBnXkFtZTgwNDg4OTA1NzM@._V1_SX300.jpg",
+		   "Rating" : 4.2
+		 },
+		 {
+		   "Title": "Mowgli: Legend of the Jungle",
+		   "Year": "2018",
+		   "Runtime": "104 min",
+		   "Poster": "https://m.media-amazon.com/images/M/MV5BMjMzODc2NzU5MV5BMl5BanBnXkFtZTgwNTMwMTE3NjM@._V1_SX300.jpg",
+		   "Rating" : 3.8
+		 },
+		 {
+		   "Title": "Doctor Strange",
+		   "Year": "2016",
+		   "Runtime": "115 min",
+		   "Poster": "https://m.media-amazon.com/images/M/MV5BNjgwNzAzNjk1Nl5BMl5BanBnXkFtZTgwMzQ2NjI1OTE@._V1_SX300.jpg",
+		   "Rating" : 3.6
+		 },
+		 {
+		   "Title": "John Wick",
+		   "Year": "2014",
+		   "Runtime": "101 min",
+		   "Poster": "https://m.media-amazon.com/images/M/MV5BMTU2NjA1ODgzMF5BMl5BanBnXkFtZTgwMTM2MTI4MjE@._V1_SX300.jpg",
+		   "Rating" : 2.8
+		 },
+		 {
+		   "Title" : "KGF Chapter 1",
+		   "Year" : 2018,
+		   "Runtime" : "126 min",
+		   "Poster" : "https://e0.pxfuel.com/wallpapers/942/663/desktop-wallpaper-yash-kgf-chapter-1-thumbnail.jpg",
+		   "Rating" : 5
+		 }
+   ]

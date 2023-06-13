@@ -1,0 +1,25 @@
+.movie-container {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	row-gap: 20px;
+	padding-top: 50px;
+}
+.movie-card {
+	padding: 5px;
+	border: 1px solid gray;
+	border-radius: 5px;
+}
+.movie-card img {
+	width: 300px;
+	height: 444px;
+}
+.movie-card h4{
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+.movie-card h4 span,.movie-card p {
+	color: gray;
+	font-size: .7rem;
+}
